@@ -7,7 +7,7 @@ import { motion } from 'framer-motion';
 import { PDFDownloadLink } from '@react-pdf/renderer'; // NEW
 import CVDocument from './components/CVDocument';
 
-import profilePic from './assets/profile.jpg';
+import profilePic from './assets/profile.webp';
 import iqratVideo from './assets/iqrat-demo.mp4'; 
 
 // Custom Icons for Socials
